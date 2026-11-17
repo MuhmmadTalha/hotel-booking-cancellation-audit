@@ -1,0 +1,9 @@
+index,split,feature_added,pr_auc_mean,pr_auc_std
+0,chronological,assigned_room_type,0.6520458496659176,
+1,chronological,booking_changes,0.6563241437606505,
+2,chronological,country,0.6916013450264857,
+3,chronological,deposit_type,0.6560142228428529,
+4,random,assigned_room_type,0.7328529728702028,0.002087026193981723
+5,random,booking_changes,0.7244447046139546,0.0021820045813549997
+6,random,country,0.7842243237472021,0.0023899524835156883
+7,random,deposit_type,0.7236045915857274,0.0026832821436329492

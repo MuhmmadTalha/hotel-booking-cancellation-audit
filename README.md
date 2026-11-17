@@ -55,6 +55,8 @@ Then open `Hotel_Cancellation_Audit.ipynb` in VS Code, select the virtual-enviro
 
 - `audit_results.csv`: results for every split and feature-set comparison.
 - `all_results.csv`: combined benchmark results.
+- `robustness_audit.py`: repeated-seed, individual-feature-ablation, and rolling-cutoff checks.
+- `results/robustness/`: robustness CSVs and the generated comparison plot.
 - `Hotel_Cancellation_Audit.ipynb`: full analysis, visualizations, model training, and evaluation.
 
 ## Limitations
